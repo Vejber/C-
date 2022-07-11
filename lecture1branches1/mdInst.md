@@ -10,9 +10,11 @@ To make bald and italics ***text***
 lalalala
 
 ## Lists
+- bullet list
+1. numbered list
 ## Links
 ## Images
-kitty image 
+kitty image
 
 to paste an image ![text](download.jpeg)
 ## Tables
